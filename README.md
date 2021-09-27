@@ -1,9 +1,8 @@
 # AgileDevelopment_templateCWRepo
-AC31007/AC51003 Agile Software Engineering - Group Number [x]
+AC41004 - Industrial Team Project Group Number [9]
 
 Group Members:
-- Member 1 (Matriculation Number)
-- Member 2 (Matriculation Number)
+- James Shaw (180005665)
 - Member X (Matriculation Number)
 
 ## Hints:
