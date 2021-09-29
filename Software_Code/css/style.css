@@ -1,0 +1,22 @@
+nav {
+  padding-right: 10px;
+  padding-left: 50px;
+}
+
+.btn {
+  margin-right: 5px;
+  background-color: #0297a2;
+  color: white;
+}
+
+h3 {
+  color: #0297a2;
+}
+
+.button-sign-up {
+  background-color: #db6e20;
+}
+
+#picture {
+  margin-top: 100px;
+}
